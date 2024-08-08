@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @robingulla
 - 👀 I’m interested in closing the gap between Information Technology and Business technology
-- 🌱 I’m currently learning python
+- 🌱 i have done few projects in python and am now learning LLM's i.e. NLP and SLM's 
 - 💞️ I’m looking to collaborate on Digital assurance and transformation projects
 - 📫 I'm available on skype 'robingulla' 
 
